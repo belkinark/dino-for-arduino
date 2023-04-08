@@ -9,10 +9,10 @@ For the project I used the following libraries:
 
 <li><b><a href="https://github.com/GyverLibs/TimerMs">TimerMs</a></li>
 
-  
+To connect the components, I used iskra Uno (an analog of arduino Uno).
+
 ![schema](https://user-images.githubusercontent.com/67878832/230729443-2ac257a7-b1ec-4659-a696-fa20ebe2ef4e.png)
 
-To connect the components, I used iskra Uno (an analog of arduino Uno).
 
 ![photo_3_2023-04-08_20-37-28](https://user-images.githubusercontent.com/67878832/230730064-4b2e28d0-5f0e-41f1-a58e-0b6d1e9523ec.jpg)
 ![photo_1_2023-04-08_20-37-28](https://user-images.githubusercontent.com/67878832/230730068-ad7ce82e-1a31-4b27-a0b8-847a32ec21a0.jpg)
