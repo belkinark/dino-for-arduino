@@ -5,9 +5,9 @@ This project is made using an LCD 1602 display and one button, below I will prov
 
 For the project I used the following libraries:
 
-<lu><b><a href="https://github.com/arduino-libraries/LiquidCrystal">LiquidCrystal</a></lu>
+<li><b><a href="https://github.com/arduino-libraries/LiquidCrystal">LiquidCrystal</a></li>
 
-<lu><b><a href="https://github.com/GyverLibs/TimerMs">TimerMs</a></lu>
+<li><b><a href="https://github.com/GyverLibs/TimerMs">TimerMs</a></li>
 
 ![schema](https://user-images.githubusercontent.com/67878832/230729443-2ac257a7-b1ec-4659-a696-fa20ebe2ef4e.png)
 
