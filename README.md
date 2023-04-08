@@ -3,6 +3,10 @@ Dinosaur from Google chrome implemented on arduino
 
 This project is made using an LCD 1602 display and one button, below I will provide a connection diagram. This is my first arduino project and I would like to receive constructive criticism.
 
+For the project I used the following libraries:
+<a href="https://github.com/arduino-libraries/LiquidCrystal">LiquidCrystal</a>
+<a href="https://github.com/GyverLibs/TimerMs">TimerMs</a>
+
 ![schema](https://user-images.githubusercontent.com/67878832/230729443-2ac257a7-b1ec-4659-a696-fa20ebe2ef4e.png)
 
 To connect the components, I used iskra Uno (an analog of arduino Uno).
